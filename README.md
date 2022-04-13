@@ -46,7 +46,7 @@ Alternatively, you can train the model and use it for secure inference. We refer
 
 1. Download the library or clond the repository with the following command: 
     ```
-    git clone https://github.com/acryptolab/HEAR.git
+    git clone https://github.com/K-miran/HEAR.git
     ```
     We will call the directory that you cloned as ${HEAR_ROOT}.
 2. Install the modified SEAL library (SEAL 3.4.5) with the following commands: 
