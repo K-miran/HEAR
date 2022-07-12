@@ -1,7 +1,7 @@
-# HEAR: Human Action Recognition via Neural Networks on Homomorphically Encrypted Data
+# HEAR: Secure Human Action Recognition by Encrypted Neural Network Inference 
 
 ## Introduction
-Remote monitoring to support **aging in place** is an active area of research. Affordable webcams, together with cloud computing services (to run machine learning algorithms), can potentially bring significant social and health benefits. However, it has not been deployed in practice because of privacy concerns. In this work, we propose a secure service paradigm to reconcile the critical challenge by integrating machine learning techniques and fully homomorphic encryption. This is an official C++ implementation of [*HEAR: Human Action Recognition via Neural Networks on Homomorphically Encrypted Data*](https://arxiv.org/abs/2104.09164) using the Residue Number System (RNS) variant of the [CKKS](https://eprint.iacr.org/2016/421.pdf) cryptosystem.
+Remote monitoring to support **aging in place** is an active area of research. Affordable webcams, together with cloud computing services (to run machine learning algorithms), can potentially bring significant social and health benefits. However, it has not been deployed in practice because of privacy concerns. In this work, we propose a secure service paradigm to reconcile the critical challenge by integrating machine learning techniques and fully homomorphic encryption. This is an official C++ implementation of [*Secure Human Action Recognition by Encrypted Neural Network Inference *](https://arxiv.org/abs/2104.09164) using the Residue Number System (RNS) variant of the [CKKS](https://eprint.iacr.org/2016/421.pdf) cryptosystem.
 
  
 ## Installation
